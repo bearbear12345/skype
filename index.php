@@ -75,6 +75,12 @@ echo "<LINK REL=\"SHORTCUT ICON\" HREF=\"resources/images/favicon/" . $icon . "\
     <span class="a-btn-icon-right"><span></span></span>
 </a>
 
+<a href="#" class="a-btn" onclick="window.location.replace('skype:?chat&blob=LMpq9MDTuAvtLTJ7vE1G1uiEk3zJkorKAWczXglhNYf2CnVZEmcl9VRoLjaL_rmCif5p0P_lZ-w7IIaJ5N9-9uQ30GycrJcL3ZqLUQGq2Jl343C5J88la00prGPeQghx0QuWcuM2Xv2aZoyXnYV42zMz8nycwsU')">
+    <span class="a-btn-text">Add</span>
+    <span class="a-btn-slide-text">Join BearCrack</span>
+    <span class="a-btn-icon-right"><span></span></span>
+</a>
+
 <div class="logo"></div>
 </body>
 </html>
